@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/los-mejores-videojuegos-para-jugar-en-4k", {data:[{}],fetch:{},mutations:void 0});

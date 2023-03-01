@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/philips", {data:[{}],fetch:{},mutations:void 0});

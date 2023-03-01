@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/creative-stage-9-1", {data:[{}],fetch:{},mutations:void 0});

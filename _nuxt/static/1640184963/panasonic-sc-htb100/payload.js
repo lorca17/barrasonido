@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/panasonic-sc-htb100", {data:[{}],fetch:{},mutations:void 0});

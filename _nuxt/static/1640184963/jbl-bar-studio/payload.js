@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/jbl-bar-studio", {data:[{}],fetch:{},mutations:void 0});

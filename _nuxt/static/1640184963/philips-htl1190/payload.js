@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/philips-htl1190", {data:[{}],fetch:{},mutations:void 0});

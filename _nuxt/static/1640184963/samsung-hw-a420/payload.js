@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/samsung-hw-a420", {data:[{}],fetch:{},mutations:void 0});

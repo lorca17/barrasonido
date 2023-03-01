@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/barra-de-sonido-bose-no-enciende", {data:[{}],fetch:{},mutations:void 0});

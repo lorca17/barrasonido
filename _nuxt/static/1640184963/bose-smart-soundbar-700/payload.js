@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/bose-smart-soundbar-700", {data:[{}],fetch:{},mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/jbl-sb250", {data:[{}],fetch:{},mutations:void 0});

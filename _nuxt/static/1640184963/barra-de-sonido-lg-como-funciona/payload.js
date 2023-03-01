@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/barra-de-sonido-lg-como-funciona", {data:[{}],fetch:{},mutations:void 0});

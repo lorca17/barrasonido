@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/samsung-hw-n360", {data:[{}],fetch:{},mutations:void 0});

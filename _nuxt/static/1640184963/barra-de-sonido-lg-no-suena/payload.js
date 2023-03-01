@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/barra-de-sonido-lg-no-suena", {data:[{}],fetch:{},mutations:void 0});

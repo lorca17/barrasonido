@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/lg-sk5", {data:[{}],fetch:{},mutations:void 0});

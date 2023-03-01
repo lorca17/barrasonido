@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/sony-ht-s20r", {data:[{}],fetch:{},mutations:void 0});

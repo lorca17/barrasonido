@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/sony-ht-x9000", {data:[{}],fetch:{},mutations:void 0});

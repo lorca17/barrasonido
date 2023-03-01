@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/polk-audio-command-bar", {data:[{}],fetch:{},mutations:void 0});

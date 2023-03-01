@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/bang-olufsen", {data:[{}],fetch:{},mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/jbl-2-0-all-in-one", {data:[{}],fetch:{},mutations:void 0});

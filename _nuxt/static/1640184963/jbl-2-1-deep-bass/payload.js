@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/jbl-2-1-deep-bass", {data:[{}],fetch:{},mutations:void 0});

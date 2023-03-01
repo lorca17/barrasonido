@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/lg-sn7", {data:[{}],fetch:{},mutations:void 0});

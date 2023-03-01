@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/tcl-ts7010", {data:[{}],fetch:{},mutations:void 0});

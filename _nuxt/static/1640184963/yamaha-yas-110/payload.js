@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/yamaha-yas-110", {data:[{}],fetch:{},mutations:void 0});

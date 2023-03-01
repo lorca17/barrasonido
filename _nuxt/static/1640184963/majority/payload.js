@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/majority", {data:[{}],fetch:{},mutations:void 0});

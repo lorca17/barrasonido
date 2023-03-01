@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/samsung-hw-q70t", {data:[{}],fetch:{},mutations:void 0});

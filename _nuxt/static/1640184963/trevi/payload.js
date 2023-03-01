@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/trevi", {data:[{}],fetch:{},mutations:void 0});
